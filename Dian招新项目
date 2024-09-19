@@ -16,9 +16,7 @@ int main()
 
     int num, location, price = 0;
 
-    //char result[128]; // result 用于显示如AAAA
-   // result[0] = '\0';
-
+   
     while (1) 
 	{
 		system("cls"); // 清屏操作
